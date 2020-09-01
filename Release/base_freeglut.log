@@ -1,0 +1,12 @@
+﻿  gl_core_3_3.c
+  main.cpp
+  mesh.cpp
+mesh.cpp(74): warning C4018: '<': signed/unsigned mismatch
+mesh.cpp(98): warning C4018: '<': signed/unsigned mismatch
+mesh.cpp(148): warning C4018: '<': signed/unsigned mismatch
+  util.cpp
+  Generating code
+  All 1049 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  base_freeglut.vcxproj -> C:\Users\may5\Class\CS535\2016\base_freeglut\Release\base_freeglut.exe
+  base_freeglut.vcxproj -> C:\Users\may5\Class\CS535\2016\base_freeglut\Release\base_freeglut.pdb (Full PDB)
